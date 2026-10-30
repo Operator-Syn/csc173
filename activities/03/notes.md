@@ -1,9 +1,9 @@
 # Lecture 03 Activity: Notes
-Name: · Student ID:
+Name: John-Ronan S. Beira · Student ID: 2023-0638
 
 ## My photos (Parts 0 to 6)
 I used four photos:
-- `1793244685183.png`: a snail on a rock with leaves behind it.
+- `1793244685183.png`: a shell on a rock with leaves behind it.
 - `1793246199099.png`: a cat sitting on pavement near a tiled entryway.
 - `1793247631335.jpg`: a barred window with a roof above it; I used this one for the edge filters.
 - `test.png`: a stylus on a bug zapper racket.
