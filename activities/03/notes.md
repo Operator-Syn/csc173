@@ -21,4 +21,4 @@ Final validation accuracy: transfer 100% · from scratch 30%
 The kernel is `[[2, 1, 0], [1, 0, -1], [0, 0, -2]]`. It gives more weight to the top-left of a patch and subtracts more from the bottom-right, so it responds to brightness changes across that diagonal. In my photo, it brings out the window bars and some wall texture.
 
 ## AI and outside help
-- DeepSeek AI: used for help with this activity.
+- DeepSeek AI
